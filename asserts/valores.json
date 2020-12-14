@@ -1,0 +1,6 @@
+{
+	"chromeDriver": ".\\asserts\\chromedriver.exe",
+	"paginaAutenticacao": "localhost:8080/CDD",
+	"paginaAutenticacaoAdmin": "localhost:8080/CDD/admin/fila",
+	"siape": "1770125"
+}
